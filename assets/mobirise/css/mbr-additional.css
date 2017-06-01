@@ -473,6 +473,9 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header1-1 .btn {
+  font-size: 30px;
+}
 #content5-8 .mbr-section-title,
 #content5-8 p {
   color: #fff;

@@ -147,11 +147,16 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "",
-          "text": "\"The United Nations has recently projected that nearly all global population growth from 2017 to 2030 will be absorbed by cities, which could translate to about 1.1 billion new urbanites over the next 13 years.\"<br><br>3DCity.IO<br>is using 3D sensor fusion and the trillion sensor economy, for designing smarter, healthier, happier cities - starting with <b>mobility</b>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> "
+          "text": "\"The United Nations has recently projected that nearly all global population growth from 2017 to 2030 will be absorbed by cities, which could translate to about 1.1 billion new urbanites over the next 13 years.\"<br><br>3DCity.IO&nbsp;is using 3D mapping technology, sensor fusion, and the connected trillion sensor economy to design smarter, healthier, happier cities - starting with <b>mobility.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"mailto:info@3dcity.io\" data-toolbar=\"-mbrBtnMove\">3DCity.IO</a> ",
+          "_styles": {
+            ".btn": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_name": "footer1",
