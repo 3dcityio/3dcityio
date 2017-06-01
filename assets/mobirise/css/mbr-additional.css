@@ -605,6 +605,9 @@ h6,
 #content5-7 p {
   color: #fff;
 }
+#contacts2-f P {
+  text-align: left;
+}
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
 }

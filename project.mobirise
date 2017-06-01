@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "partners.html",
+    "currentPage": "contact.html",
     "name": "3dcityio",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://3dcity.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">3DCITY.IO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://3dcity.io\" aria-expanded=\"true\">3DCITY.IO Project Details</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partners.html\">Partners<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:info@3dcity.io\">Email</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://3dcity.io\" aria-expanded=\"true\">3DCITY.IO Project Details</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partners.html\">Employed Technologies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:info@3dcity.io\">Email</a></li>"
         },
         {
           "_name": "header1",
@@ -296,7 +296,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://3dcity.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">3DCITY.IO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://3dcity.io\" aria-expanded=\"true\">3DCITY.IO Project Details</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partners.html\">Partners<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:info@3dcity.io\">Email</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://3dcity.io\" aria-expanded=\"true\">3DCITY.IO Project Details</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partners.html\">Employed Technologies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:info@3dcity.io\">Email</a></li>"
         },
         {
           "_name": "footer1",
@@ -340,8 +340,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/download-2000x1000-800x400.png",
-                "image": "@PROJECT_PATH@/assets/images/download-2000x1000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/umbra-transparent-2000x654-800x261.png",
+                "image": "@PROJECT_PATH@/assets/images/umbra-transparent-2000x654.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/esri-logo-white-shadow-2000x447-800x178.png",
+                "image": "@PROJECT_PATH@/assets/images/esri-logo-white-shadow-2000x447.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -353,20 +363,20 @@
                 "thumb": "@PROJECT_PATH@/assets/images/unity-logo-white-2000x726-800x290.png",
                 "image": "@PROJECT_PATH@/assets/images/unity-logo-white-2000x726.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/esri-logo-2000x739-800x295.jpg",
-                "image": "@PROJECT_PATH@/assets/images/esri-logo-2000x739.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3dr-2000x1259-800x503.png",
+                "image": "@PROJECT_PATH@/assets/images/3dr-2000x1259.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
-            "spacing": 1,
+            "spacing": "3",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
@@ -472,7 +482,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://3dcity.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">3DCITY.IO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://3dcity.io\" aria-expanded=\"true\">3DCITY.IO Project Details</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partners.html\">Partners<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:info@3dcity.io\">Email</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://3dcity.io\" aria-expanded=\"true\">3DCITY.IO Project Details</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partners.html\">Employed Technologies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:info@3dcity.io\">Email</a></li>"
         },
         {
           "_name": "footer1",
@@ -490,77 +500,6 @@
             "overlayColor": "#000000"
           },
           "text": "Copyright (c) 2017 3DCity.IO"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "testimonial": [
-            {
-              "text": "<p>Yana is an architect&nbsp;</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Suffian A.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Jhollman C.",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials1-6",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "count": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
-          },
-          "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_styles": {
@@ -593,6 +532,37 @@
           },
           "title": "",
           "caption": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-f",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>Address</strong><br>3DCity.IO &nbsp;- &nbsp;HQ<br>555 Bryant Street #880<br>Palo Alto, CA 94301<br><br>\n<strong>Contacts</strong><br>\nEmail: info@3dcity.io<br>\nPhone: +1 (415) &nbsp;527 0167 <br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><br><li><a href=\"about.html\" class=\"text-white\">About</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact</a></li><li><a href=\"partners.html\" class=\"text-white\">Employed Technology</a></li></ul>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
@@ -689,7 +659,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://3dcity.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">3DCITY.IO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://3dcity.io\" aria-expanded=\"true\">3DCITY.IO Project Details</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partners.html\">Partners<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:info@3dcity.io\">Email</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://3dcity.io\" aria-expanded=\"true\">3DCITY.IO Project Details</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partners.html\">Employed Technologies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:info@3dcity.io\">Email</a></li>"
         },
         {
           "_name": "footer1",
@@ -766,7 +736,7 @@
                 }
               },
               "authorName": "Steven Pease",
-              "authorBio": "3D Guru, Software Developer"
+              "authorBio": "Robotics, 3D Guru, Software Developer"
             }
           ],
           "_anchor": "testimonials1-d",
