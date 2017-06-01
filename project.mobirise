@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "name": "3dcityio",
     "theme": {
       "name": "mobirise3",
@@ -45,7 +45,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "24px"
+              "font-size": "36px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -54,10 +54,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.25rem"
+              "font-size": "1.55rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.354rem"
+              "font-size": "1.679rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "#c0a375"
@@ -92,7 +92,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "1.25",
+            "fontSize": "1.55",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
@@ -150,7 +150,7 @@
             "showButtons": false
           },
           "title": "",
-          "text": "\"The United Nations has recently projected that nearly all global population growth from 2017 to 2030 will be absorbed by cities, which could translate to about 1.1 billion new urbanites over the next 13 years.\"<br><br>3DCity.IO<br>is using 3D sensor fusion, in the trillion sensor economy, to design smarter cities - starting with <b>mobility</b>.",
+          "text": "\"The United Nations has recently projected that nearly all global population growth from 2017 to 2030 will be absorbed by cities, which could translate to about 1.1 billion new urbanites over the next 13 years.\"<br><br>3DCity.IO<br>is using 3D sensor fusion and the trillion sensor economy, for designing smarter, healthier, happier cities - starting with <b>mobility</b>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> "
         },
         {
@@ -182,10 +182,10 @@
           "_name": "content5",
           "_anchor": "content5-8",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
-            "parallax": true,
+            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/-01-2000x673.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
@@ -194,7 +194,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": true
@@ -217,7 +217,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "24px"
+              "font-size": "36px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -226,10 +226,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.25rem"
+              "font-size": "1.55rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.354rem"
+              "font-size": "1.679rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "#c0a375"
@@ -264,7 +264,7 @@
           "_anchor": "menu-2",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "1.25",
+            "fontSize": "1.55",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
@@ -376,7 +376,7 @@
                 "active": false
               }
             ],
-            "spacing": "3",
+            "spacing": "6",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
@@ -403,7 +403,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "24px"
+              "font-size": "36px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -412,10 +412,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.25rem"
+              "font-size": "1.55rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.354rem"
+              "font-size": "1.679rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "#c0a375"
@@ -450,7 +450,7 @@
           "_anchor": "menu-4",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "1.25",
+            "fontSize": "1.55",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
@@ -513,8 +513,8 @@
           "_name": "content5",
           "_anchor": "content5-7",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/-01-2000x673.jpg",
@@ -525,7 +525,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": true
@@ -540,20 +540,21 @@
           "_name": "contacts2",
           "_anchor": "contacts2-f",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "555 Bryant St.\nPalo Alto, CA 94301",
+              "placeId": "ChIJGc5neDm7j4ARTH959m9k66Q",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
           "text1": "<strong>Address</strong><br>3DCity.IO &nbsp;- &nbsp;HQ<br>555 Bryant Street #880<br>Palo Alto, CA 94301<br><br>\n<strong>Contacts</strong><br>\nEmail: info@3dcity.io<br>\nPhone: +1 (415) &nbsp;527 0167 <br>",
@@ -579,7 +580,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "24px"
+              "font-size": "36px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -588,10 +589,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.25rem"
+              "font-size": "1.55rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.354rem"
+              "font-size": "1.679rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "#c0a375"
@@ -626,7 +627,7 @@
           "_anchor": "menu-b",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "1.25",
+            "fontSize": "1.55",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
@@ -724,7 +725,7 @@
               "text": "Steven Bio Coming Soon",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mbr-160x106.jpg",
+                  "src": "@THEME_PATH@/components/_images/jumbotron.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -741,25 +742,33 @@
           ],
           "_anchor": "testimonials1-d",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": true,
-            "count": 3,
+            "count": "3",
             "showImages": true,
             "showName": true,
             "showBio": true
           },
           "title": "Meet the 3DCity.io Team",
-          "subtitle": ""
+          "subtitle": "",
+          "_styles": {
+            ".card-footer > div": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-section-title": {
+              "color": "#c1c1c1"
+            }
+          }
         }
       ]
     }
