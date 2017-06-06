@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "name": "3dcityio",
     "theme": {
       "name": "mobirise3",
@@ -129,6 +129,11 @@
         },
         {
           "_name": "header1",
+          "_styles": {
+            ".btn": {
+              "font-size": "30px"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
@@ -150,13 +155,8 @@
             "showButtons": false
           },
           "title": "",
-          "text": "\"The United Nations has recently projected that nearly all global population growth from 2017 to 2030 will be absorbed by cities, which could translate to about 1.1 billion new urbanites over the next 13 years.\"<br><br>3DCity.IO<br>is using 3D mapping technology, sensor fusion, and the connected trillion sensor economy to design smarter, healthier, happier cities - starting with <b>mobility.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"mailto:info@3dcity.io\" data-toolbar=\"-mbrBtnMove\">3DCity.IO</a> ",
-          "_styles": {
-            ".btn": {
-              "font-size": "30px"
-            }
-          }
+          "text": "\"The United Nations has recently projected that nearly all global population growth from 2017 to 2030 will be absorbed by cities, which could translate to about 1.1 billion new urbanites over the next 13 years.\"<br><br>3DCity.IO<br>is using 3D mapping technology, sensor fusion, and the connected trillion sensor economy to design smarter, healthier, happier cities - starting with <b>mobility.</b><b><br></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"mailto:info@3dcity.io\" data-toolbar=\"-mbrBtnMove\">3DCity.IO</a> "
         },
         {
           "_name": "footer1",
@@ -543,6 +543,11 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "contacts2-f",
           "_params": {
             "paddingTop": "1",
@@ -563,12 +568,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>3DCity.IO &nbsp;- &nbsp;HQ<br>555 Bryant Street #880<br>Palo Alto, CA 94301<br><br>\n<strong>Contacts</strong><br>\nEmail: info@3dcity.io<br>\nPhone: +1 (415) &nbsp;527 0167 <br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><br><li><a href=\"about.html\" class=\"text-white\">About</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact</a></li><li><a href=\"partners.html\" class=\"text-white\">Employed Technology</a></li></ul>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><br><li><a href=\"about.html\" class=\"text-white\">About</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact</a></li><li><a href=\"partners.html\" class=\"text-white\">Employed Technology</a></li></ul>"
         }
       ]
     },
@@ -689,9 +689,17 @@
             "Theme"
           ],
           "_name": "testimonials1",
+          "_styles": {
+            ".card-footer > div": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-section-title": {
+              "color": "#c1c1c1"
+            }
+          },
           "testimonial": [
             {
-              "text": "<p>Yana Bio Coming Soon</p>",
+              "text": "<p>Yana, facinated with drawing both digital and analog - has been fascinated with architecture of eco-spaces, that is in harmony with the human condition.</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/yanita-160x160.jpg",
@@ -709,7 +717,7 @@
               "authorBio": "Eco-Architect &amp; City Planner"
             },
             {
-              "text": "<p>Carlos Bio Coming Soon</p>",
+              "text": "<p>Carlos a serial entrepreneur with a passion for robotics &amp; clean energy, with a background in bioengineering. &nbsp;Mission is to help humanity - industrialize &nbsp;intelligently.</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/carlos-profile-160x131.jpg",
@@ -727,7 +735,7 @@
               "authorBio": "BioEngineer &amp; Robotics"
             },
             {
-              "text": "Steven Bio Coming Soon",
+              "text": "Steven, an insatiably curious engineer at the amazing nexus of software and hardware innovation, with a specific passion and expertise in personal robotics.",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -742,13 +750,17 @@
                 }
               },
               "authorName": "Steven Pease",
-              "authorBio": "Robotics, 3D Guru, Software Developer"
+              "authorBio": "Robotics, 3D Sensor Guru &amp; Full Stack Software Developer"
             }
           ],
           "_anchor": "testimonials1-d",
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "4",
+            "count": "3",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -758,22 +770,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "count": "3",
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "Meet the 3DCity.io Team",
-          "subtitle": "",
-          "_styles": {
-            ".card-footer > div": {
-              "color": "#c1c1c1"
-            },
-            ".mbr-section-title": {
-              "color": "#c1c1c1"
-            }
-          }
+          "subtitle": ""
         }
       ]
     }
