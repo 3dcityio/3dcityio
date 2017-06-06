@@ -699,7 +699,7 @@
           },
           "testimonial": [
             {
-              "text": "<p>Yana, facinated with drawing both digital and analog - has been fascinated with architecture of eco-spaces, that is in harmony with the human condition.</p>",
+              "text": "<p>Yana has vision and execution for drawing both in digital and analog - is an inpired 'retrofitter of cities' to better incorporate eco-spaces and maximize harmony between space &amp; the human condition.</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/yanita-160x160.jpg",
@@ -717,7 +717,7 @@
               "authorBio": "Eco-Architect &amp; City Planner"
             },
             {
-              "text": "<p>Carlos a serial entrepreneur with a passion for robotics &amp; clean energy, with a background in bioengineering. &nbsp;Mission is to help humanity - industrialize &nbsp;intelligently.</p>",
+              "text": "<p>Carlos is an entrepreneur, engineer with a generalist background in bioengineering, robotics, and digital fabrication. &nbsp; This has taken him from startups in fuel cells, biotech, robotics, managing innovotion labs, and building connected sensor networks.</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/carlos-profile-160x131.jpg",
@@ -732,10 +732,10 @@
                 }
               },
               "authorName": "Carlos Uranga",
-              "authorBio": "BioEngineer &amp; Robotics"
+              "authorBio": "Bioengineer &amp; Robotics"
             },
             {
-              "text": "Steven, an insatiably curious engineer at the amazing nexus of software and hardware innovation, with a specific passion and expertise in personal robotics.",
+              "text": "Steven, an insatiably curious engineer at the nexus of software and hardware innovation - with a destinct passion and expertise in personal robotics.",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -750,7 +750,7 @@
                 }
               },
               "authorName": "Steven Pease",
-              "authorBio": "Robotics, 3D Sensor Guru &amp; Full Stack Software Developer"
+              "authorBio": "Robotics &amp; &nbsp;Full Stack Software Developer"
             }
           ],
           "_anchor": "testimonials1-d",
