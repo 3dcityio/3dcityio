@@ -738,7 +738,7 @@
               "text": "Steven, an insatiably curious engineer at the nexus of software and hardware innovation - with a destinct passion and expertise in personal robotics.",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/jumbotron.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/stevenpease-123x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
