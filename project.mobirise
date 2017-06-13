@@ -1,23 +1,23 @@
 {
   "settings": {
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "name": "3dcityio",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c1c1c1",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "titleFont": "Open Sans",
+        "subtitleFont": "Open Sans",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       }
     },
@@ -51,7 +51,9 @@
               "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
               "font-size": "1.55rem"
@@ -93,14 +95,18 @@
           "_params": {
             "bgColor": "#000000",
             "fontSize": "1.55",
-            "fontName": {},
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
             "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -125,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">3DCITY.IO</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">3DCITY.IO Project Details</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partners.html\">Employed Technologies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:info@3dcity.io\">Email</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-btn\"></span>3DCITY.IO Project Details</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partners.html\">Employed Technologies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:info@3dcity.io\">Email</a></li>"
         },
         {
           "_name": "header1",
@@ -155,7 +161,7 @@
             "showButtons": false
           },
           "title": "",
-          "text": "\"The United Nations has recently projected that nearly all global population growth from 2017 to 2030 will be absorbed by cities, which could translate to about 1.1 billion new urbanites over the next 13 years.\"<br><br>3DCity.IO<br>is using 3D mapping technology, sensor fusion, and the connected trillion sensor economy to design smarter, healthier, happier cities - starting with <b>mobility.</b><b><br></b><br>",
+          "text": "<span style=\"font-style: normal;\">\"The United Nations has recently projected that nearly all global population growth from 2017 to 2030 will be absorbed by cities, which could translate to about 1.1 billion new urbanites over the next 13 years.\"<br></span><br><span style=\"font-style: normal;\">3DCityIO</span><span style=\"font-style: normal;\"><br>is using 3D CAD and mapping technology, along with sensor fusion &amp; mesh IoT to design smarter, healthier, happier cities - starting with <b>mobility</b>.</span><br><b><br></b><br><span style=\"font-style: normal;\">Our 3D cities, now in 4D</span>™<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"mailto:info@3dcity.io\" data-toolbar=\"-mbrBtnMove\">3DCity.IO</a> "
         },
         {
@@ -199,7 +205,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": true
@@ -633,14 +639,18 @@
           "_params": {
             "bgColor": "#000000",
             "fontSize": "1.55",
-            "fontName": {},
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
             "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -665,7 +675,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">3DCITY.IO</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">3DCITY.IO Project Details</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partners.html\">Employed Technologies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:info@3dcity.io\">Email</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-btn\"></span>3DCITY.IO Project Details</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partners.html\">Employed Technologies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:info@3dcity.io\">Email</a></li>"
         },
         {
           "_name": "footer1",
